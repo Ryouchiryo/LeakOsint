@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.ibb.co.com/ScF7B9r/OIG1-2.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://i.ibb.co.com/ScF7B9r/OIG1-2.jpg" width="50%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 <h1 align="center">Leaked Osint</h1>
